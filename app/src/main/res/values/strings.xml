@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TodoApp</string>
+    <string name="Add">ADD</string>
+    <string name="Add_Items">Add a new working ...</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_edit_working">Edit your working here:</string>
+    <string name="SaveBtn">SAVE</string>
+</resources>
