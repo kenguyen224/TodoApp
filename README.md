@@ -3,7 +3,7 @@ this app will list of working that you need to do
 # Pre-work - *TodoApp*
 
 n1n2n2
-
+n3
 **TodoApp** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
 Submitted by: **Nguyễn Văn kế**
